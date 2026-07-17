@@ -193,9 +193,3 @@ HDB_HASH_PEPPER='<secret>' python src/hdb_etl/pipeline.py
 Please refer the docs belows:
 - Assumptions and trade-offs: `architecture/part2_assumptions.md`
 - PowerPoint submission deck: `architecture/part2_architecture.pptx`
-
-Rebuild the PowerPoint (embeds the current PNGs) with:
-
-```bash
-python architecture/build_part2_pptx.py
-```
