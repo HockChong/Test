@@ -190,24 +190,9 @@ HDB_HASH_PEPPER='<secret>' python src/hdb_etl/pipeline.py
 
 ## Part 2 Architecture Artifacts
 
-The Part 2 submission assets are available under `architecture/`:
-
-> **The PNG is the primary artifact — view it at full resolution (1920×1080).** It is drawn at
-> the density the design needs, so the deck scales it to fit a slide and the in-diagram labels and
-> footnotes become small. The deck is a wrapper for presenting the diagram and the assumptions;
-> it is not a substitute for opening the PNG.
-
-- End-to-end overview diagram: `architecture/part2_overview.drawio` / `.png` — both the ingestion and
-  exploitation flows on one canvas, joined at S3. This is the architecture artifact.
-- Requirement traceability checklist: `architecture/part2_requirements_traceability.md`
+Please refer the docs belows:
 - Assumptions and trade-offs: `architecture/part2_assumptions.md`
 - PowerPoint submission deck: `architecture/part2_architecture.pptx`
-
-If diagram refresh is needed after editing labels, regenerate PNG outputs with:
-
-```bash
-python architecture/render_part2_diagrams.py
-```
 
 Rebuild the PowerPoint (embeds the current PNGs) with:
 
