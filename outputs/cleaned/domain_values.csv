@@ -1,0 +1,139 @@
+field,value,frequency
+month,2012-03,2360
+month,2012-05,2323
+month,2012-07,2179
+month,2012-04,2155
+month,2012-08,2075
+month,2012-06,1993
+month,2012-10,1937
+month,2016-08,1882
+month,2016-05,1829
+month,2016-06,1827
+month,2016-04,1824
+month,2012-09,1760
+month,2015-10,1748
+month,2012-11,1735
+month,2015-06,1706
+month,2013-04,1692
+month,2016-10,1678
+month,2016-09,1668
+month,2016-03,1655
+month,2013-01,1633
+month,2015-04,1630
+month,2012-02,1629
+month,2013-05,1605
+month,2016-11,1580
+month,2016-07,1572
+month,2015-05,1567
+month,2014-10,1560
+month,2012-01,1559
+month,2014-04,1557
+month,2015-07,1551
+month,2015-09,1498
+month,2012-12,1493
+month,2013-07,1484
+month,2014-09,1472
+month,2015-11,1470
+month,2015-08,1449
+month,2014-05,1447
+month,2014-03,1444
+month,2015-12,1412
+month,2013-10,1391
+month,2016-12,1378
+month,2013-08,1354
+month,2014-07,1352
+month,2014-11,1351
+month,2015-03,1348
+month,2014-08,1329
+month,2013-06,1317
+month,2013-03,1306
+month,2014-12,1304
+month,2016-01,1280
+month,2015-01,1250
+month,2014-06,1223
+month,2013-09,1212
+month,2013-11,1209
+month,2016-02,1200
+month,2015-02,1151
+month,2014-01,1098
+month,2013-12,1008
+month,2014-02,959
+month,2013-02,886
+town,JURONG WEST,7573
+town,WOODLANDS,7399
+town,TAMPINES,6728
+town,BEDOK,6071
+town,YISHUN,5937
+town,SENGKANG,5896
+town,HOUGANG,4735
+town,ANG MO KIO,4558
+town,CHOA CHU KANG,3928
+town,BUKIT BATOK,3773
+town,BUKIT MERAH,3618
+town,BUKIT PANJANG,3261
+town,PASIR RIS,3075
+town,PUNGGOL,3075
+town,TOA PAYOH,2917
+town,KALLANG/WHAMPOA,2755
+town,GEYLANG,2649
+town,QUEENSTOWN,2524
+town,CLEMENTI,2319
+town,SEMBAWANG,2314
+town,JURONG EAST,2157
+town,SERANGOON,2029
+town,BISHAN,1671
+town,CENTRAL AREA,750
+town,MARINE PARADE,640
+town,BUKIT TIMAH,192
+flat_type,4 ROOM,36535
+flat_type,3 ROOM,26307
+flat_type,5 ROOM,21368
+flat_type,EXECUTIVE,7295
+flat_type,2 ROOM,956
+flat_type,1 ROOM,56
+flat_type,MULTI-GENERATION,27
+flat_model,Model A,26447
+flat_model,Improved,24117
+flat_model,New Generation,16495
+flat_model,Premium Apartment,8314
+flat_model,Simplified,5152
+flat_model,Apartment,3701
+flat_model,Standard,3458
+flat_model,Maisonette,2574
+flat_model,Model A2,1415
+flat_model,DBSS,277
+flat_model,Model A-Maisonette,151
+flat_model,Adjoined flat,141
+flat_model,Type S1,138
+flat_model,Terrace,60
+flat_model,Type S2,55
+flat_model,Multi Generation,27
+flat_model,Improved-Maisonette,10
+flat_model,Premium Maisonette,6
+flat_model,Premium Apartment Loft,5
+flat_model,2-room,1
+storey_range,04 TO 06,21214
+storey_range,07 TO 09,18765
+storey_range,01 TO 03,17466
+storey_range,10 TO 12,16028
+storey_range,13 TO 15,6704
+storey_range,16 TO 18,2706
+storey_range,01 TO 05,2700
+storey_range,06 TO 10,2474
+storey_range,11 TO 15,1259
+storey_range,19 TO 21,1156
+storey_range,22 TO 24,746
+storey_range,25 TO 27,381
+storey_range,16 TO 20,265
+storey_range,28 TO 30,236
+storey_range,21 TO 25,92
+storey_range,34 TO 36,88
+storey_range,37 TO 39,81
+storey_range,31 TO 33,79
+storey_range,26 TO 30,39
+storey_range,40 TO 42,38
+storey_range,46 TO 48,8
+storey_range,43 TO 45,8
+storey_range,36 TO 40,7
+storey_range,31 TO 35,2
+storey_range,49 TO 51,2

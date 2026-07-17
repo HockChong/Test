@@ -1,0 +1,18 @@
+{
+  "master_row_count": 92544,
+  "cleaned_row_count": 90949,
+  "failed_row_count": 1595,
+  "validation_failed_count": 0,
+  "dedup_failed_count": 1595,
+  "reconciliation_ok": true,
+  "failed_reason_distribution": {
+    "duplicate_lower_price": 1324,
+    "duplicate_exact_match": 271
+  },
+  "domain_reference_source": "bootstrapped_from_master",
+  "cleaned_output_path": "outputs/cleaned/cleaned_2012_2016.csv",
+  "failed_output_path": "outputs/failed/failed_2012_2016.csv",
+  "profiling_output_path": "outputs/cleaned/profiling_summary.json",
+  "domain_values_output_path": "outputs/cleaned/domain_values.csv",
+  "domain_reference_path": "outputs/cleaned/domain_reference.json"
+}

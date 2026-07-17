@@ -1,0 +1,118 @@
+{
+  "row_count": 92544,
+  "column_count": 11,
+  "fields": {
+    "month": {
+      "null_or_blank_count": 0,
+      "unique_count": 60,
+      "top_10_values": {
+        "2012-03": 2360,
+        "2012-05": 2323,
+        "2012-07": 2179,
+        "2012-04": 2155,
+        "2012-08": 2075,
+        "2012-06": 1993,
+        "2012-10": 1937,
+        "2016-08": 1882,
+        "2016-05": 1829,
+        "2016-06": 1827
+      },
+      "parse_fail_count": 0,
+      "min": "2012-01",
+      "max": "2016-12"
+    },
+    "town": {
+      "null_or_blank_count": 0,
+      "unique_count": 26,
+      "top_10_values": {
+        "JURONG WEST": 7573,
+        "WOODLANDS": 7399,
+        "TAMPINES": 6728,
+        "BEDOK": 6071,
+        "YISHUN": 5937,
+        "SENGKANG": 5896,
+        "HOUGANG": 4735,
+        "ANG MO KIO": 4558,
+        "CHOA CHU KANG": 3928,
+        "BUKIT BATOK": 3773
+      }
+    },
+    "flat_type": {
+      "null_or_blank_count": 0,
+      "unique_count": 7,
+      "top_10_values": {
+        "4 ROOM": 36535,
+        "3 ROOM": 26307,
+        "5 ROOM": 21368,
+        "EXECUTIVE": 7295,
+        "2 ROOM": 956,
+        "1 ROOM": 56,
+        "MULTI-GENERATION": 27
+      }
+    },
+    "flat_model": {
+      "null_or_blank_count": 0,
+      "unique_count": 20,
+      "top_10_values": {
+        "Model A": 26447,
+        "Improved": 24117,
+        "New Generation": 16495,
+        "Premium Apartment": 8314,
+        "Simplified": 5152,
+        "Apartment": 3701,
+        "Standard": 3458,
+        "Maisonette": 2574,
+        "Model A2": 1415,
+        "DBSS": 277
+      }
+    },
+    "storey_range": {
+      "null_or_blank_count": 0,
+      "unique_count": 25,
+      "top_10_values": {
+        "04 TO 06": 21214,
+        "07 TO 09": 18765,
+        "01 TO 03": 17466,
+        "10 TO 12": 16028,
+        "13 TO 15": 6704,
+        "16 TO 18": 2706,
+        "01 TO 05": 2700,
+        "06 TO 10": 2474,
+        "11 TO 15": 1259,
+        "19 TO 21": 1156
+      },
+      "pattern_fail_count": 0
+    },
+    "resale_price": {
+      "parse_fail_count": 0,
+      "min": 190000.0,
+      "max": 1150000.0,
+      "p25": 357000.0,
+      "p50": 428000.0,
+      "p75": 515000.0
+    },
+    "floor_area_sqm": {
+      "parse_fail_count": 0,
+      "min": 31.0,
+      "max": 280.0,
+      "p25": 74.0,
+      "p50": 95.0,
+      "p75": 111.0
+    }
+  },
+  "rare_value_review_candidates": {
+    "flat_model": {
+      "Premium Maisonette": 6,
+      "Premium Apartment Loft": 5,
+      "2-room": 1
+    },
+    "storey_range": {
+      "46 TO 48": 8,
+      "43 TO 45": 8,
+      "36 TO 40": 7,
+      "31 TO 35": 2,
+      "49 TO 51": 2
+    }
+  },
+  "rare_value_review_threshold": 10
+}

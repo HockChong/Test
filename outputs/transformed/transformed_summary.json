@@ -1,0 +1,13 @@
+{
+  "reference_date": "2026-07-14",
+  "transformed_row_count": 90949,
+  "hashed_row_count": 90949,
+  "resale_identifier_unique_count": 77255,
+  "hashed_identifier_unique_count": 77255,
+  "hash_uniqueness_preserved": true,
+  "hash_algorithm": "HMAC-SHA-256 over resale_identifier, keyed with a pepper",
+  "hash_pepper_source": "default_public_demo_pepper_not_irreversible",
+  "hash_is_irreversible": false,
+  "transformed_output_path": "outputs/transformed/transformed_2012_2016.csv",
+  "hashed_output_path": "outputs/hashed/hashed_2012_2016.csv"
+}
